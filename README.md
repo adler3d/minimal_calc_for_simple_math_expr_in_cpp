@@ -2,6 +2,6 @@
 Minimal calculator for simple math expressions in C++11
 
 BasedOn:
-  js like split/join 
-  function overloading 
-  preprocessor macros
+* js like split/join 
+* function overloading 
+* preprocessor macros
