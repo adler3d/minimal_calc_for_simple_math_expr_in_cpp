@@ -9,7 +9,7 @@ BasedOn:
 * preprocessor macros
 
 Benefits:
-* no dependensy
+* no dependency
 * small code //37 lines, 1.8 KB
 * no compile time overhead
 * no link time overhead
