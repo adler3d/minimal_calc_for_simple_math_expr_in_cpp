@@ -7,3 +7,9 @@ BasedOn:
 * js like split/join 
 * function overloading 
 * preprocessor macros
+
+Benefits:
+* no dependensy
+* small code //37 lines, 1.8 KB
+* no compile time overhead
+* no link time overhead
