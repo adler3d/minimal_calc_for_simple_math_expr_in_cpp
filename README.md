@@ -2,6 +2,8 @@
 Minimal calculator for simple math expressions in C++11
 
 BasedOn:
+* std::string
+* std::vector
 * js like split/join 
 * function overloading 
 * preprocessor macros
