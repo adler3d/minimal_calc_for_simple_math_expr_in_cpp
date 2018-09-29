@@ -17,5 +17,5 @@ Benefits:
 * no link time overhead
 
 
-For more complex calculations using exprtk:
+For more complex calculations look at exprtk:
   http://www.partow.net/programming/exprtk/index.html
